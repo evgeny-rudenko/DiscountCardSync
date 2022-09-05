@@ -168,9 +168,7 @@ WHERE ID_DISCOUNT2_CARD_GLOBAL = @card_id
 }
 
 
-/*
-  
- */
+
 
 /*
  
